@@ -2,7 +2,7 @@
 
 Welcome to the LeetCode solutions repository! This repository contains solutions to various LeetCode problems.
 
-# Contributing
+# Contributing 🌿
 Contributions to improve the solutions or add new problems are welcome! To contribute:
 
 1. Fork the repository.
@@ -10,5 +10,5 @@ Contributions to improve the solutions or add new problems are welcome! To contr
 3. Add your solution in the appropriate directory.
 4. Submit a pull request with a description of your changes.
 
-# License
+# License 📚
 This repository is licensed under the MIT License. See the <a href="https://github.com/neeru24/Leetcode-Problems/blob/main/LICENSE">LICENSE</a> file for more details.
