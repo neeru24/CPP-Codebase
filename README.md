@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# LeetCode Solutions ✅
 
 Welcome to the LeetCode solutions repository! This repository contains solutions to various LeetCode problems.
 
