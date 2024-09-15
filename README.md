@@ -2,7 +2,7 @@
 
 Welcome to **CPP-Codebase**! This repository contains C++ code solutions for various problems and algorithms, covering platforms like LeetCode 🏅, Coding Ninjas 🧩, and more. 
 
-#### Dive in and explore! 💡✨
+### Dive in and explore! 💡✨
 
 # Contributing 🌿
 Contributions to improve the solutions or add new problems are welcome! To contribute:
