@@ -1,6 +1,6 @@
-# C++ Codebase ✅
+# C++ Codeflow ✅
 
-Welcome to **CPP-Codebase**! This repository contains C++ code solutions for various problems and algorithms, covering platforms like LeetCode 🏅, Coding Ninjas 🧩, and more. 
+Welcome to **CPP-Codeflow**! This repository contains C++ code solutions for various problems and algorithms, covering platforms like LeetCode 🏅, Coding Ninjas 🧩, and more. 
 ### Dive in and explore! 💡✨
 
 ## 📚 Learning Resources
