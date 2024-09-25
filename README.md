@@ -1,7 +1,7 @@
 # C++ Codeflow ✅
 
 Welcome to **CPP-Codeflow**! This repository contains C++ code solutions for various problems and algorithms, covering platforms like LeetCode 🏅, Coding Ninjas 🧩, and more. 
-### Dive in and explore! 💡✨
+### Dive in and explore! 💡
 
 ## 📚 Learning Resources
 I’m currently following the playlist of <a href="https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA">CodeHelp</a> 's YouTube channel - by <a href="https://www.youtube.com/results?search_query=love+babbar">Love Babbar Bhaiya </a>for DSA tutorials and insights. Feel free to check it out!
